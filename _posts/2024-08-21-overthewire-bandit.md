@@ -1,8 +1,8 @@
 ---
 title: OverTheWire's Writeup
 time: 2024-08-19 12:00:00
-categories: [OverTheWire, forensics]
-tags: [cryptography]
+categories: [general]
+tags: []
 image: /assets/posts/overthewire/icon.jpg
 ---
 

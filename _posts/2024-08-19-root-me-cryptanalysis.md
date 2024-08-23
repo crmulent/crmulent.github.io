@@ -1,8 +1,8 @@
 ---
 title: Root-me (Cryptanalysis) - Writeup
 time: 2024-08-19 12:00:00
-categories: [root-me, network]
-tags: [network]
+categories: [cryptography]
+tags: []
 image: /assets/posts/root-me/icon.svg
 ---
 
